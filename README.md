@@ -13,4 +13,4 @@ Watch tutorial on YouTube.
 
 1. open index.html in your browser.
 2.A bit not understand
-3. have fun.
+3.have fun.
